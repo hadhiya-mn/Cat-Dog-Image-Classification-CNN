@@ -127,6 +127,6 @@ This project was developed and enhanced as part of my AI/ML learning and interns
 
 ## 👩‍💻 Author
 
-**Hridya Sudeer P**
+**HADHIYA MN**
 
 GitHub: https://github.com/hadhiya-mn
